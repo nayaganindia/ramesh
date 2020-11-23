@@ -1,0 +1,15 @@
+PROJECT TITLE :  Capstone Project - The Battle of Neighborhoods - Locate ideal neighbourhood
+
+BUSINESS PROBLEM : 
+
+In this modern age, Canada is a very popular immigration destination. Lots of people are migrating to various states of Canada and needed lots of information on good housing prices and reputated schools for their children.
+
+This scope of this Project is to help indians migrating to Toronto to identify a best neighborhood as a comparative analysis between neighborhoods.
+
+The features used in analysis will be to identify neghbourhoods where following facilities are mostly available nearby like school, shops, transport facilities, indian restaurants, medical facilities etc
+
+Thus our business problem to solve is, which neighborhood is ideal to move in for an indian immigrant.
+
+
+
+

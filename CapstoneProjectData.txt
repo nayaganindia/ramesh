@@ -1,0 +1,17 @@
+DATA :
+
+This project will utilize publicly available data from Wikipedia and Foursquare.
+
+Get the data from wiki portal - https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M and prepare it.
+Get the location coordinates from - https://cocl.us/Geospatial_data
+
+Merge both the data to arrive at our source of data.
+
+Specifically, all Toronto neighborhood details along with their postal codes are available here: https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M
+
+The focus of this project will be to acquire data by using web scraping method of python and then clean the data,
+populate the data then use foursquare API to collect the data of the all the neighborhood places 
+then use k-means clustering method to find the best fit.
+
+SAVE DATA TO FILE :
+df.to_csv('toronto.csv', index=False)
