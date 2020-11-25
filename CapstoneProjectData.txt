@@ -7,6 +7,14 @@ Get the location coordinates from - https://cocl.us/Geospatial_data
 
 Merge both the data to arrive at our source of data.
 
+Above data sources will be needed to extract/generate the required information:
+
+- Group the neighbourhoods based on postal code and use K-means clustering to analyse and visualize the data.
+- Location details like latitude and longitude details are fetched from remote location, alternatively they can also be retrieved from Google Maps API. 
+
+- Fetch the facilities like Restaurants, Bus Stations, Schools, Coffee shops, Grocery Shops etc in every neighborhood using Foursquare API
+- Identify the neighbourhood which matches our requirement - having most of preferred facilities, and recommend it to the customer.
+
 Specifically, all Toronto neighborhood details along with their postal codes are available here: https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M
 
 The focus of this project will be to acquire data by using web scraping method of python and then clean the data,
